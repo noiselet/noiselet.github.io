@@ -19,7 +19,7 @@ Work experience
 ======
 * Sept. 2025 - Nov. 2025: Senior Data Scientist
   * Banco Mundo Mujer
-  * Duties includes: 
+  * Duties included: 
     - Methodologies for fitting a behavioral scoring model; Finding  significant variables for such purpose and a workplan for a probability of default model.
 
 * Jan. 2025 - Sept. 2025: Programmer
