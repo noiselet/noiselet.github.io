@@ -6,8 +6,8 @@ permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'Using Non-Homogeneous Poisson Processes and Bayesian Inference to model exceedances to assess the efficiency of public policies.'
 date: 2025-06-28
 venue: 'Air Quality, Atmosphere & Health'
-slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
+slidesurl: #'https://academicpages.github.io/files/slides3.pdf'
+paperurl: 'https://link.springer.com/article/10.1007/s11869-025-01762-z'
 citation: 'Suárez-Sierra, Gómez-Montoya and Taimal. (2025). &quot;Pollutants exceedances modeling using non-homogeneous poisson processes: a case study for Medellín and Bogotá, 2018-2020.&quot; <i>Air Quality, Atmosphere & Health</i>. 1-20.'
 ---
 
